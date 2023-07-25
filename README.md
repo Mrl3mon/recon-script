@@ -3,12 +3,14 @@ Domain Scanner is a simple Bash script that performs a basic reconnaissance scan
 
 ## Dependencies
 
-- nmap
-- dirsearch
-- curl
+- [nmap](https://nmap.org/)
+- [dirsearch](https://github.com/maurosoria/dirsearch)
+- [crt](https://crt.sh/)
 
 ## Usage
-./recon.sh <domain> [scan-type]
+- Before anything, make sure that you gave permission `chmod +x recon.bash`
+
+# ./recon.sh <domain> [scan-type]
 - `<domain>`: The domain to scan.
 - `[scan-type]` (optional): The type of scan to perform. Available options are: `nmap-only`, `dirsearch-only`, `crt-only`, or leave blank to perform all scans.
 
