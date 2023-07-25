@@ -5,7 +5,9 @@ Domain Scanner is a simple Bash script that performs a basic reconnaissance scan
 
 - [nmap](https://nmap.org/)
 - [dirsearch](https://github.com/maurosoria/dirsearch)
-- [crt](https://crt.sh/)
+- [crt.sh](https://crt.sh/)
+- [jq](https://stedolan.github.io/jq/)
+- [curl](https://curl.se/)
 
 ## Usage
 - Before anything, make sure that you gave permission `chmod +x recon.bash`
