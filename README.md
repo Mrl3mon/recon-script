@@ -8,6 +8,7 @@ Domain Scanner is a simple Bash script that performs a basic reconnaissance scan
 - [crt.sh](https://crt.sh/)
 - [jq](https://stedolan.github.io/jq/)
 - [curl](https://curl.se/)
+- [waybackurls](https://github.com/tomnomnom/waybackurls)
 
 ## Usage
 - Before anything, make sure that you gave permission `chmod +x recon.bash`
